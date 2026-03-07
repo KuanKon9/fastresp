@@ -1718,29 +1718,30 @@ onload="window.Shopify.SignInWithShop?.initShopCartSync?.({'fedCMEnabled': true,
             }
          </style>
 
-  <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "SARI4D",
-        "url": "https://biozymepharmacy.com/about/",
-        "logo": "https://res.cloudinary.com/dbb5t7rye/image/upload/v1754219631/Nu6iAhw80M8jX6ya_p4qtff.png,
-        "sameAs": [
+         <script type="application/ld+json">
+         {
+         "@context": "https://schema.org",
+         "@type": "Organization",
+         "name": "SARI4D",
+         "url": "https://biozymepharmacy.com/about/",
+         "logo": "https://res.cloudinary.com/dbb5t7rye/image/upload/v1754219631/Nu6iAhw80M8jX6ya_p4qtff.png",
+         "sameAs": [
             "https://www.facebook.com/SARI4DOfficial",
-            "https://twitter.com/RAJA_BANDOT",
+            "https://twitter.com/sari4d",
             "https://www.instagram.com/SARI4Dofficiial"
-        ],
-    "contactPoint": {
-    "@type": "ContactPoint",
-        "telephone": "+62-852-9841-2970",
-        "contactType": "customer support",
-        "areaServed": "ID",
-        "availableLanguage": [
-            "Indonesian", "English"
-        ]
-      }
-    }
-  </script> 
+         ],
+         "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+62-852-9841-2970",
+            "contactType": "customer support",
+            "areaServed": "ID",
+            "availableLanguage": [
+               "Indonesian",
+               "English"
+            ]
+         }
+         }
+         </script>
 
          <script>
             $("input").focus(function() {
@@ -3689,7 +3690,7 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
   /* =========================================
      FOOTER UTAMA (DARK GOLD ELEGANT)
      ========================================= */
-  .SARI4D-X-NinbuRjb {
+  .SARI4D-XT {
     display: flex;
     justify-content: space-around;
     align-items: flex-end; /* Agar tombol tengah bisa melayang */
@@ -3711,7 +3712,7 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
   /* =========================================
      BUTTON NAVIGASI (PROMO, LOGIN, DLL)
      ========================================= */
-  .SARI4D-X-NinbuRjb a {
+  .SARI4D-XT a {
     text-decoration: none;
     display: flex;
     flex-direction: column;
@@ -3726,27 +3727,27 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
     flex: 1; /* Ukuran rata */
   }
 
-  .SARI4D-X-NinbuRjb a:hover {
+  .SARI4D-XT a:hover {
     color: #ebbb1e; /* Berubah Emas saat hover */
     transform: translateY(-3px);
   }
 
   /* Styling Icon (GIF) */
-  .SARI4D-X-NinbuRjb img {
+  .SARI4D-XT img {
     width: 24px; height: 24px;
     margin-bottom: 4px;
     filter: grayscale(100%) brightness(200%); /* Buat icon jadi putih/abu biar rapi */
     transition: 0.3s;
   }
 
-  .SARI4D-X-NinbuRjb a:hover img {
+  .SARI4D-XT a:hover img {
     filter: drop-shadow(0 0 5px rgba(212, 175, 55, 0.6)); /* Glow Emas saat hover */
   }
 
   /* =========================================
      BUTTON TENGAH (DAFTAR) - SPESIAL
      ========================================= */
-  .SARI4D-X-NinbuRjb a.tada {
+  .SARI4D-XT a.tada {
     position: relative;
     top: -25px; /* Naikkan posisi ke atas (Melayang) */
     
@@ -3766,7 +3767,7 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
     animation: floatGold 3s ease-in-out infinite; /* Animasi melayang halus */
   }
 
-  .SARI4D-X-NinbuRjb a.tada img {
+  .SARI4D-XT a.tada img {
     margin-bottom: 2px;
     width: 22px; height: 22px;
     filter: brightness(0); /* Icon hitam di atas emas */
@@ -3786,31 +3787,31 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
 
   /* Responsif Mobile Kecil */
   @media (max-width: 350px) {
-    .SARI4D-X-NinbuRjb a { font-size: 9px; }
-    .SARI4D-X-NinbuRjb img { width: 20px; height: 20px; }
-    .SARI4D-X-NinbuRjb a.tada { width: 50px; height: 50px; min-width: 50px; top: -20px; }
+    .SARI4D-XT a { font-size: 9px; }
+    .SARI4D-XT img { width: 20px; height: 20px; }
+    .SARI4D-XT a.tada { width: 50px; height: 50px; min-width: 50px; top: -20px; }
   }
 </style>
 
 <!-- HTML WIDGET FOOTER (Struktur Asli Anda) -->
-<div class="SARI4D-X-NinbuRjb">
-    <a href="https://linkrjb.me/promosibandot" rel="nofollow noopener" target="_blank">
+<div class="SARI4D-XT">
+    <a href="https://sari4dslot-daftar.pages.dev/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://res.cloudinary.com/dbb5t7rye/image/upload/v1763308270/sari4dico_ced6nx.ico" alt="SARI4D Promo">
         PROMO
     </a>
     <a href="https://sari4dslot-daftar.pages.dev/" rel="nofollow noopener" target="_blank">
-        <img layout="intrinsic" height="20px" width="20px" src="https://imgsaya4.io/images/2025/11/11/rjb-favicon.png" alt="SARI4D Login">
+        <img layout="intrinsic" height="20px" width="20px" src="https://res.cloudinary.com/dbb5t7rye/image/upload/v1763308270/sari4dico_ced6nx.ico" alt="SARI4D Login">
         LOGIN
     </a>
     <a href="https://sari4d-login.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
-        <img layout="intrinsic" height="20px" width="20px" src="https://imgsaya2.io/images/2024/07/09/SARI4Dfav.png" alt="SARI4D Daftar">
+        <img layout="intrinsic" height="20px" width="20px" src="https://res.cloudinary.com/dbb5t7rye/image/upload/v1754219631/Nu6iAhw80M8jX6ya_p4qtff.png" alt="SARI4D Daftar">
         DAFTAR
     </a>
-    <a href="https://linkrjb.me/prediksibandot" rel="nofollow noopener" target="_blank">
-        <img layout="intrinsic" height="20px" width="20px" src="https://imgsaya4.io/images/2025/10/27/RjbIcon1.png" alt="SARI4D Prediksi">
+    <a href="https://sari4dslot-daftar.pages.dev/" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px" src="https://res.cloudinary.com/dbb5t7rye/image/upload/v1763308270/sari4dico_ced6nx.ico" alt="SARI4D Prediksi">
         PREDIKSI
     </a>
-    <a href="https://linkrjb.me/lcbandot" rel="nofollow noopener" target="_blank"
+    <a href="https://sari4dslot-daftar.pages.dev/" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://res.cloudinary.com/dbb5t7rye/image/upload/v1763308270/sari4dico_ced6nx.ico"
             alt="SARI4D LiveChat">
@@ -7609,7 +7610,7 @@ document.querySelectorAll(".faq-q").forEach(btn => {
 		<div class="modal-overlay" data-modal-element-overlay="" data-modal-close-button-parent="" aria-modal="true" role="dialog" tabindex="-1" aria-hidden="true" aria-labelledby="modal-headline" aria-label="Modal">
 			<div class="modal-content-container" data-modal-element-content-container=""><div id="modal-pdp-apple-care-modal" class="ac-modal" data-type="content" data-width="wide" data-variant="pageOverlay" data-modal-dialog-label="Modal" data-modal-close-label="Close Modal">
                                                       <p class="apple-care-modal__heading">Keuntungan bermain di SARI4D</p>
-                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://imgsaya3.io/images/2026/02/04/RJBGIF-04.1.gif" alt="SARI4D" width="418" height="597" loading="lazy"></div>
+                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://res.cloudinary.com/dbb5t7rye/image/upload/v1754219631/Nu6iAhw80M8jX6ya_p4qtff.png" alt="SARI4D" width="418" height="597" loading="lazy"></div>
                                                       <div class="apple-care-modal__content">
                                                          <div class="metafield-rich_text_field">
                                                             <ul>
